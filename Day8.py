@@ -12,9 +12,10 @@ def greet():
 greet()
 """
 # Function that allows for us to use an input to pass it over.
-
-def greet_name(name):
-    print(f"How do you do {name}")
+# Can use difference variables to make multi - 
+def greet_name(name,loaction):
+    print(f"How do you do {name}.")
+    print(f"What is it like in {loaction}.")
     
-greet_name("Nick")
+greet_name("Nick","Melbourne")
 
