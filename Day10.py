@@ -1,0 +1,1 @@
+# Day 10 focuses on functions with outputs and our project will be to make a calculator app in python
